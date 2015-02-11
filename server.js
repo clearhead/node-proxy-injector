@@ -8,6 +8,7 @@ var program = require('commander');
 var http = require('http');
 var url = require('url');
 var fs = require('fs');
+var glob = require('glob');
 var connect = require('connect');
 var proxyInjector = require('./lib/proxy-injector');
 var livereload = require('livereload');
