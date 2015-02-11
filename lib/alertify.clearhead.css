@@ -1,0 +1,19 @@
+#alertify-logs {
+  top: 0px;
+  left: auto;
+  height: auto;
+  width: 500px;
+  text-align: left
+}
+.alertify-log-success {
+  background: #24ccfb;
+  color: #fff;
+  font-size: 16px;
+  text-align: left
+}
+.alertify-log-error {
+  background: #fc7e23;
+  color: #fff;
+  font-size: 16px;
+  text-align: left
+}
