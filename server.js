@@ -61,6 +61,7 @@ var config = { // defaults:
 if (program.createRc) {
   var writeConf = function () {
     fs.writeFileSync(rcfile, JSON.stringify(config, 2, ' '));
+    fs.writeFileSync('.gitignore', '.gitignore\r\n.npirc', 'utf8');
   };
 
   if ( ! fs.existsSync(rcfile) ) writeConf();
