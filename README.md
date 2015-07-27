@@ -12,6 +12,8 @@
 
   `$ npi`
 
+  Note: You must create a .rc file in the local directory (`-c`) the first time you use the tool on a project.
+
 ## Command line options
 
   * `-u`, `--target-url` Specify url to proxy. Default currently set to http://jquery.com/ for example purposes
