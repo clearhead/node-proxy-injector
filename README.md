@@ -6,13 +6,13 @@
 
 ## Installation
 
-  `npm install -g clearhead/node-proxy-injector`
+  `npm install -g node-proxy-injector`
 
 ## Usage
 
   `$ npi`
 
-  Note: You must create a .rc file in the local directory (`-c`) the first time you use the tool on a project.
+  ProTip: Use `-c` the first time you use the tool on a project to create a re-usable rc file.
 
 ## Command line options
 
