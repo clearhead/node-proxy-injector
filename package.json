@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/casecode/node-proxy-injector.git"
+    "url": "https://github.com/clearhead/node-proxy-injector.git"
   },
   "author": "Casey White",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/casecode/node-proxy-injector/issues"
+    "url": "https://github.com/clearhead/node-proxy-injector/issues"
   },
-  "homepage": "https://github.com/casecode/node-proxy-injector",
+  "homepage": "https://github.com/clearhead/node-proxy-injector",
   "dependencies": {
     "cheerio": "^0.18.0",
     "colors": "^1.0.3",
